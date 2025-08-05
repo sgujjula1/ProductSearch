@@ -1,0 +1,23 @@
+# Ignore Python virtual environments
+venv/
+.env/
+ENV/
+env/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Data and output files
+*.csv
+*.parquet
+
+# OS
